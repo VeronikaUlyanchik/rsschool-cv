@@ -45,8 +45,8 @@ _Write a function, persistence, that takes in a positive parameter num and retur
 
 ## Experience 
 
-
-I worked in Alivaria Brewery as a customs specialist from 2019 to 2021.
+Work experience 2 years 7 months from 2019 to 2021: \
+Alivaria Brewery as a customs specialist.
 
 ## Education
 
