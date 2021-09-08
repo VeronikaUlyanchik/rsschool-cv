@@ -1,6 +1,6 @@
 # Veronika Ulyanchik
 ======
-## Contact: 
+## Contact 
 ======
 
 Phone: +375 29 2263940 \
