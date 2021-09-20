@@ -17,7 +17,15 @@ As part of my studies, I studied 2 foreign languages: English and German.
 Then worked in Alivaria Brewery as a customs specialist from 2019 to 2021.
 Also I took courses "Website Development Using HTML, CSS and JavaScript". I liked this direction, therefore I absolutely sure want to develop further in the field of web development. I hope to work as a front-end developer soon. 
 
-I am attentive and responsible, and I can work with a large amount of information, can work in a team understand the essence, think logically, I have a great interest in the development of my chosen specialty. I like learn and constantly learn new things.
+ ### Personal skills
+
+- Fast learner
+- Multitasking
+- Teamworker
+- Logical thinking
+- Attentive and responsible
+
+Considering all the knowledge and experience that I've gotten so far, I really like the idea of being a web programmer. Now I have great will and need for further training aimed at improving my skills. I would like to work for an organization that offers some serious development opportunities. As a junior specialist, I would like to take part in real projects. I look forward to working in a team of professionals so I can learn from them.
 
 ## Skills 
 
