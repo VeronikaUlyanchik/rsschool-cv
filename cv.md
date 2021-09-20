@@ -3,7 +3,7 @@
 ## Contact 
 
 
-Phone: +375 29 2263940 \
+Phone: +375 29 226-39-40 \
 E-mail: veronikaullll1998@gmail.com \
 Telegram: https://t.me/VeronikaUlyanchik \
 LinkedIn :https://www.linkedin.com/in/veronika-ulyanchik1998/ 
