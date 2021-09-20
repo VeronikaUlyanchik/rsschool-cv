@@ -33,7 +33,8 @@ I am attentive and responsible, and I can work with a large amount of informatio
 
 _Write a function, persistence, that takes in a positive parameter num and returns its multiplicative persistence, which is the number of times you must multiply the digits in num until you reach a single digit._
 
-``` function persistence(num) { 
+```javascript
+ function persistence(num) { 
    let i = 0; 
    while (num.toString().length !== 1) { 
      num = num.toString().split("").reduce((a,b)=>a*b); 
